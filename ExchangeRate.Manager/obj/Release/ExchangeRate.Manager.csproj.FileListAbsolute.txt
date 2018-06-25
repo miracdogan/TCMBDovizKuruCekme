@@ -1,0 +1,4 @@
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.Manager\bin\Release\ExchangeRate.Manager.dll
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.Manager\bin\Release\ExchangeRate.Manager.pdb
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.Manager\obj\Release\ExchangeRate.Manager.dll
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.Manager\obj\Release\ExchangeRate.Manager.pdb

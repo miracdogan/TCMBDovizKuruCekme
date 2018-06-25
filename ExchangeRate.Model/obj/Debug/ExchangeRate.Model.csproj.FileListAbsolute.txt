@@ -1,0 +1,7 @@
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.Model\bin\Debug\ExchangeRate.Model.dll
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.Model\bin\Debug\ExchangeRate.Model.pdb
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.Model\obj\Debug\ExchangeRate.Model.dll
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.Model\obj\Debug\ExchangeRate.Model.pdb
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.Model\obj\Debug\ExchangeRate.Model.csprojResolveAssemblyReference.cache

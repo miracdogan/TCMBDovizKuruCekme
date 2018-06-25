@@ -1,0 +1,90 @@
+2018-06-19 10:57:40.9573|INFO|ExchangeRate.WinService.ExchangeRate|Girdi.
+2018-06-20 15:15:25.4433|INFO|ExchangeRate.WinService.ExchangeRate|Girdi.
+2018-06-20 15:15:26.4860|INFO|ExchangeRate.WinService.ExchangeRate|Veriler çekildi.
+2018-06-20 15:16:13.4455|INFO|ExchangeRate.WinService.ExchangeRate|Girdi.
+2018-06-20 15:16:13.9731|INFO|ExchangeRate.WinService.ExchangeRate|Veriler çekildi.
+2018-06-20 16:19:20.2174|ERROR|databaseLogger|Hata!!!
+2018-06-20 16:19:54.0293|ERROR|databaseLogger|Hata!!!
+2018-06-20 16:21:37.1410|ERROR|databaseLogger|Hata!!!
+2018-06-20 16:22:13.7884|ERROR|databaseLogger|Hata!!!
+2018-06-20 16:24:35.3805|INFO|databaseLogger|Geldi
+2018-06-20 16:24:52.8019|INFO|databaseLogger|Geldi
+2018-06-20 16:26:39.9003|INFO|databaseLogger|Geldi
+2018-06-20 16:27:18.6150|INFO|databaseLogger|Geldi
+2018-06-20 16:27:32.7264|ERROR|databaseLogger|Hata!!!
+2018-06-20 16:27:33.2537|INFO|ExchangeRate.WinService.ExchangeRate|Veriler çekildi.
+2018-06-20 16:32:42.5425|INFO|ExchangeRate.WinService.ExchangeRate|Veriler çekildi.
+2018-06-20 16:39:45.8966|INFO|databaseLogger|Veriler çekildi.
+2018-06-20 16:48:12.6669|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 08:25:43.9055|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 08:38:34.3480|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 08:39:32.7851|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 08:46:27.4265|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 08:46:56.3418|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 09:00:16.0591|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 09:07:49.3299|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 09:08:00.5755|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 09:08:35.2276|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 09:10:22.3733|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 09:10:59.0065|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 10:05:35.4881|ERROR|databaseLogger|Hata oluþtu.
+2018-06-21 10:05:35.6437|ERROR|databaseLogger|Merkez bankasýndan kur alýnamadý.
+2018-06-21 10:06:36.5352|ERROR|databaseLogger|Hata oluþtu.
+2018-06-21 10:06:38.6484|ERROR|databaseLogger|Merkez bankasýndan kur alýnamadý.
+2018-06-21 10:06:50.3799|ERROR|databaseLogger|Hata oluþtu.
+2018-06-21 10:09:16.8889|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 10:11:44.5430|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 10:21:48.2231|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 10:22:27.9332|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 10:23:55.4459|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 10:26:53.8854|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 10:27:51.5549|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 11:04:11.5575|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 11:51:42.6341|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 11:52:46.5382|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 11:54:23.2226|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 13:08:25.0280|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 13:19:27.0289|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 13:20:22.7741|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 13:22:02.2345|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 13:25:20.8022|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 13:31:57.8645|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 13:32:00.2024|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 13:32:01.1170|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 13:32:47.2137|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 13:42:40.6954|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 13:43:29.8378|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 13:51:05.2591|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 13:51:49.4819|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 13:56:38.7162|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 13:57:11.2781|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 13:58:05.0939|ERROR|databaseLogger|Hata oluþtu.
+2018-06-21 13:58:05.1963|ERROR|databaseLogger|Merkez bankasýndan kur alýnamadý.
+2018-06-21 13:58:21.5475|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 14:00:39.8617|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 14:00:45.2108|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 14:03:35.6100|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 14:04:42.1928|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 14:05:17.2946|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 14:08:03.7443|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 14:14:07.1682|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 14:14:43.1148|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 14:15:45.3817|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 15:00:51.0677|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 15:02:57.3124|INFO|databaseLogger|Veriler çekildi.
+2018-06-21 15:18:35.4916|INFO|databaseLogger|Veriler çekildi.
+2018-06-22 09:26:20.8303|INFO|databaseLogger|Veriler çekildi.
+2018-06-22 09:26:54.7386|INFO|databaseLogger|Veriler çekildi.
+2018-06-22 09:28:19.6739|INFO|databaseLogger|Veriler çekildi.
+2018-06-22 09:28:53.2784|INFO|databaseLogger|Veriler çekildi.
+2018-06-22 09:29:03.4027|INFO|databaseLogger|Veriler çekildi.
+2018-06-22 09:30:42.4356|INFO|databaseLogger|Veriler çekildi.
+2018-06-22 09:37:54.5233|INFO|databaseLogger|Veriler çekildi.
+2018-06-22 09:39:08.9190|INFO|databaseLogger|Veriler çekildi.
+2018-06-22 09:46:15.7190|INFO|databaseLogger|Veriler çekildi.
+2018-06-22 09:48:31.6156|INFO|databaseLogger|Veriler çekildi.
+2018-06-22 09:52:30.3653|INFO|databaseLogger|Veriler çekildi.
+2018-06-22 09:54:20.9676|INFO|databaseLogger|Veriler çekildi.
+2018-06-22 10:05:18.0159|INFO|databaseLogger|Veriler çekildi.
+2018-06-22 10:20:32.3494|INFO|databaseLogger|Veriler çekildi.
+2018-06-22 10:21:29.8625|INFO|databaseLogger|Veriler çekildi.

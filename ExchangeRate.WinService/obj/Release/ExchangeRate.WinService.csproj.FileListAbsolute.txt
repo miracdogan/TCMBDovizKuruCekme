@@ -1,0 +1,15 @@
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.WinService\bin\Release\ExchangeRate.WinService.exe.config
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.WinService\bin\Release\NLog.config
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.WinService\bin\Release\ExchangeRate.WinService.exe
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.WinService\bin\Release\ExchangeRate.WinService.pdb
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.WinService\bin\Release\ExchangeRate.Model.dll
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.WinService\bin\Release\Newtonsoft.Json.dll
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.WinService\bin\Release\NLog.dll
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.WinService\bin\Release\ExchangeRate.Model.pdb
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.WinService\bin\Release\Newtonsoft.Json.xml
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.WinService\bin\Release\NLog.xml
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.WinService\obj\Release\ExchangeRate.WinService.csprojResolveAssemblyReference.cache
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.WinService\obj\Release\ExchangeRate.WinService.ProjectInstaller.resources
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.WinService\obj\Release\ExchangeRate.WinService.csproj.GenerateResource.Cache
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.WinService\obj\Release\ExchangeRate.WinService.exe
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.WinService\obj\Release\ExchangeRate.WinService.pdb

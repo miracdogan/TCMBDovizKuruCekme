@@ -1,0 +1,5 @@
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.Manager\bin\Debug\ExchangeRate.Manager.dll
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.Manager\bin\Debug\ExchangeRate.Manager.pdb
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.Manager\obj\Debug\ExchangeRate.Manager.dll
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.Manager\obj\Debug\ExchangeRate.Manager.pdb
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.Manager\obj\Debug\ExchangeRate.Manager.csprojResolveAssemblyReference.cache

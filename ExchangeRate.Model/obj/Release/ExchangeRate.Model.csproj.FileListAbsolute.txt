@@ -1,0 +1,6 @@
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.Model\bin\Release\ExchangeRate.Model.dll
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.Model\bin\Release\ExchangeRate.Model.pdb
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.Model\bin\Release\Newtonsoft.Json.dll
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.Model\bin\Release\Newtonsoft.Json.xml
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.Model\obj\Release\ExchangeRate.Model.dll
+C:\Users\Opeth\Desktop\ExchangeRate\ExchangeRate.Model\obj\Release\ExchangeRate.Model.pdb

@@ -1,0 +1,12 @@
+2018-06-22 08:22:14.1229|INFO|databaseLogger|Veriler çekildi.
+2018-06-22 08:22:21.1472|INFO|databaseLogger|Veriler çekildi.
+2018-06-22 08:22:27.0904|INFO|databaseLogger|Veriler çekildi.
+2018-06-22 08:22:34.6219|INFO|databaseLogger|Veriler çekildi.
+2018-06-22 08:23:20.9684|INFO|databaseLogger|Veriler çekildi.
+2018-06-22 08:33:06.3305|INFO|databaseLogger|Veriler çekildi.
+2018-06-22 08:44:44.0119|INFO|databaseLogger|Veriler çekildi.
+2018-06-22 09:24:57.9474|INFO|databaseLogger|Veriler çekildi.
+2018-06-22 09:25:31.1462|INFO|databaseLogger|Veriler çekildi.
+2018-06-22 09:25:37.6472|INFO|databaseLogger|Veriler çekildi.
+2018-06-22 09:26:00.0707|INFO|databaseLogger|Veriler çekildi.
+2018-06-22 09:26:11.4886|INFO|databaseLogger|Veriler çekildi.
